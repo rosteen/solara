@@ -142,7 +142,7 @@ python-dotenv==1.0.1
 python-slugify==8.0.4
 python-utils==3.8.2
 pythreejs==2.4.2
-pytz==2026.3.post1
+pytz==2026.4
 pywin32==311
 PyYAML==6.0.3
 pyzmq==27.1.0
@@ -176,7 +176,7 @@ types-requests==2.32.0.20241016
 typing_extensions==4.13.2
 tzdata==2026.4
 urllib3==2.2.3
-uv==0.12.17
+uv==0.12.18
 uvicorn==0.33.0
 vaex-core==4.17.1
 vaex-hdf5==0.15.0
@@ -186,7 +186,7 @@ vega-datasets==0.9.0
 virtualenv==21.4.3
 watchdog==4.0.2
 watchfiles==0.24.0
-wcwidth==0.8.4
+wcwidth==0.8.5
 websockets==13.1
 Werkzeug==3.0.6
 widgetsnbextension==4.0.16
